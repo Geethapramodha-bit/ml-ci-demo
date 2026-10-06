@@ -1,0 +1,10 @@
+{
+  "accuracy": 1.0,
+  "f1": 1.0,
+  "recall_poisonous": 1.0,
+  "cv_accuracy_mean": 1.0,
+  "cv_accuracy_std": 0.0,
+  "n_train": 6093,
+  "n_features": 116,
+  "max_depth": null
+}
